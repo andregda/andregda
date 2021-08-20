@@ -62,6 +62,26 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 --->
 
+### Certificates:
+
+<!--- Coursera - IBM AI Engineering Specialization ---->
+[<img align="left" alt="Coursera" width="26px" src="http://coursera-university-assets.s3.amazonaws.com/bb/f5ced2bdd4437aa79f00eb1bf7fbf0/IBM-Logo-Blk---Square.png"
+/>][IBM - AI Engineering Specialization][IBM - AI Engineering Specialization]
+
+<!--- Coursera - Deep Learning Specialization ---->
+[<img align="left" alt="Coursera" width="24px" src="http://coursera-university-assets.s3.amazonaws.com/b4/5cb90bb92f420b99bf323a0356f451/Icon.png"
+/>][DeepLearning.ai - Deep Learning Specialization][DeepLearning.ai - Deep Learning Specialization]
+
+<!--- Télécom Paris - Image processing in Python ---->
+[<img align="left" alt="Coursera" width="26px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQFx4IdmU79mIg/company-logo_200_200/0/1569917600446?e=1637798400&v=beta&t=oIhwNl6X-HX4qKG-Swda-D0ko7aFDe2dtNU7wK_d_ek"
+/>][Télécom Paris - Image processing in Python][Télécom Paris - Image processing in Python]
+
+</details>
+
+[IBM - AI Engineering Specialization]: https://coursera.org/share/ce8a91bf4a3899757188a891f786be0a
+[DeepLearning.ai - Deep Learning Specialization]: https://www.coursera.org/account/accomplishments/specialization/certificate/7TMV6SUME7LG
+[Télécom Paris - Image processing in Python]: https://raw.githubusercontent.com/andregda/andregda/main/img/Image_Processing-TelecomParis.jpg
+
 ---
 
 ### Reach me over:
@@ -83,7 +103,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <!--- Check the work of https://anuraghazra.github.io/case-studies/github-readme-stats --->
 			
-| [![andregda's GitHub stats](https://github-readme-stats.vercel.app/api?username=andregda&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=dracula)](https://github.com/andregda?tab=repositories) | [![andregda's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andregda&layout=compact&hide_border=true&theme=dracula)](https://github.com/andregda?tab=repositories) |
+| [![andregda's GitHub stats](https://github-readme-stats.vercel.app/api?username=andregda&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=dracula)](https://github.com/andregda?tab=repositories) | [![andregda's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andregda&hide_border=true&theme=dracula)](https://github.com/andregda?tab=repositories) |
 |:-:|:-:|
 
 <p align="center">
