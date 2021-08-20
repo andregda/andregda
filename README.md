@@ -1,6 +1,6 @@
 ## Hi, I'm André 👋 Who goes there ? 😁 
 
-<!--- So you also read others README.md files ? --->
+<!--- So you also read others README.md files ? Welcome ! \o/ --->
 
 ---
 
@@ -13,7 +13,7 @@ I'm a graduated Mechanical Engineer 🌊 with emphasis in Computacional Fluid Dy
 - 🔁 I’m looking to dive into collaboration
 - 📆 2021: Learn that new language & Contribute to Open Source
 
-**FAQ ( Funny Answers: "Quotable me" )**
+**FAQ ( Funny Answers to "Quote me" )**
 
 - 🐧 Linux since 2014
 - 🗺️ EN FR PT-BR
