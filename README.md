@@ -4,11 +4,18 @@
 
 ---
 
+<h1 align="center">
+    <img alt="Banner: Keyboard, Ukulele, Books, Photography and lots of coffee" title="#Banner" src="./assets/banner.jpg" />
+</h1>
+
+---
+
 I've experienced code through in-house software development and, now, working in a Data Mart.
 
 Self-taught, I'm just an avid learner. 
 
-I'm a graduated Mechanical Engineer 🌊 with emphasis in Computacional Fluid Dynamics & Offshore 💨 that decided to land on Tech. ***(That Simulation guy) ...*** 🤓
+I'm a graduated Mechanical Engineer 🌊 with emphasis in Computacional Fluid Dynamics & Offshore 💨 that decided to land on Tech.
+***(That Simulation guy) ...*** 🤓
 
 - 🔁 I’m looking to dive into collaboration
 - 📆 2021: Learn that new language & Contribute to Open Source
@@ -23,44 +30,14 @@ I'm a graduated Mechanical Engineer 🌊 with emphasis in Computacional Fluid Dy
 
 <br />
 
-<!--- TODO: Better Languages section --->
+### Languages & Technologies:
 
-<!---
-### Languages and Tools:
-
-[<img align="left" alt="Terminal Shell" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"
-/>][github]
-
-[<img align="left" alt="Python" width="26px" 
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"
-/>][github] 
-
-[<img align="left" alt="SQL" width="26px"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"
-/>][github]
-
-[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/docker/docker.png"
-/>][github]
-
-[<img align="left" alt="VIM" width="26px"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png"
-/>][github]
-
-[<img align="left" alt="VS Code" width="26px" 
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"
-/>][github] 
-
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][github]
-
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"
-/>][github]
-
-[<img align="left" alt="Anki" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Anki-icon.svg/64px-Anki-icon.svg.png"
-/>][anki]
-
-<br />
-
---->
+![Shell Script](https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=sql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Certificates:
 
@@ -80,7 +57,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 [IBM - AI Engineering Specialization]: https://coursera.org/share/ce8a91bf4a3899757188a891f786be0a
 [DeepLearning.ai - Deep Learning Specialization]: https://www.coursera.org/account/accomplishments/specialization/certificate/7TMV6SUME7LG
-[Télécom Paris - Image processing in Python]: https://raw.githubusercontent.com/andregda/andregda/main/img/Image_Processing-TelecomParis.jpg
+[Télécom Paris - Image processing in Python]: https://raw.githubusercontent.com/andregda/andregda/main/assets/Image_Processing-TelecomParis.jpg
 
 ---
 
