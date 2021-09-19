@@ -10,36 +10,55 @@
 
 ---
 
-I've experienced code through in-house software development and, now, working in a Data Mart.
+I'm a graduated Mechanical Engineer 🌊 with emphasis in Computational Fluid Dynamics & Offshore 💨 that decided to land on Tech.
+***(That Simulation guy) ...*** 🤓
 
 Self-taught, I'm just an avid learner. 
 
-I'm a graduated Mechanical Engineer 🌊 with emphasis in Computacional Fluid Dynamics & Offshore 💨 that decided to land on Tech.
-***(That Simulation guy) ...*** 🤓
+I've experienced code through in-house software development and, now, working in a Data Mart.
 
-- 🔁 I’m looking to dive into collaboration
-- 📆 2021: Learn that new language & Contribute to Open Source
+- 🔁 I’m looking to dive into collaboration & Open Source
+- <img src="https://avatars.githubusercontent.com/u/9950313?s=200&v=4" alt="nodeJS symbol" width="18px"/> 2021: Learn that new language
+- 💻 Put myself on the map as a developer
+  
+
+
 
 **FAQ ( Funny Answers to "Quote me" )**
 
 - 🐧 Linux since 2014
-- 🗺️ EN FR PT-BR
+- 🌎 EN FR PT-BR
 - 🎸 guitar / ukulele
+- 📷 eventual photographer
 - 🗹 Tabs ☐ Spaces
-- 🗹 VIM 🗹 VS Code / OSS ☐ E... that other OS ... 😂
+- 🗹 VIM 🗹 VS Code / OSS ☐ EMACS ... that other OS ... 😂
+- 🗹 Semicolon ☐ No Semicolon
+- 🗹 Linux 🗹 MacOS 🗹 WSL2 ☐ Windows 
+- 🗹 Zsh 🗹 Bash ☐ Fish ☐ PowerShell 
 
-<br />
+**_⚙️  Tools available at [dotfiles](https://github.com/andregda/dotfiles)_**
 
 ### Languages & Technologies:
 
 ![Shell Script](https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=sql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+But if you mean 🗣️ ... I use [SRS](https://en.wikipedia.org/wiki/Spaced_repetition), powered by
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Anki-icon.svg/1024px-Anki-icon.svg.png" alt="Anki symbol" width="18px"/> 
+[Anki], books and shadowing.
+
 ### Certificates:
+
+<!--- Rocketseat - Ignite nodeJS ---->
+<img align="left" alt="Rocketseat - Ignite NodeJS" width="26px" src="https://yt3.ggpht.com/a-/AN66SAwEmAP0WiZxLuzJ_prRn4DduPMIMUiPpzBuZg=s900-mo-c-c0xffffffff-rj-k-no"
+/>
+Rocketseat - Ignite NodeJS (Ongoing)
 
 <!--- Coursera - IBM AI Engineering Specialization ---->
 [<img align="left" alt="Coursera" width="26px" src="http://coursera-university-assets.s3.amazonaws.com/bb/f5ced2bdd4437aa79f00eb1bf7fbf0/IBM-Logo-Blk---Square.png"
@@ -55,32 +74,40 @@ I'm a graduated Mechanical Engineer 🌊 with emphasis in Computacional Fluid Dy
 
 </details>
 
+<!--- [Rocketseat - Ignite NodeJS]:  --->
 [IBM - AI Engineering Specialization]: https://coursera.org/share/ce8a91bf4a3899757188a891f786be0a
 [DeepLearning.ai - Deep Learning Specialization]: https://www.coursera.org/account/accomplishments/specialization/certificate/7TMV6SUME7LG
 [Télécom Paris - Image processing in Python]: https://raw.githubusercontent.com/andregda/andregda/main/assets/Image_Processing-TelecomParis.jpg
 
----
+## Reach me over:
 
-### Reach me over:
-	
-<p align="center">
+<a href="https://andregda.github.io">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/76409149?v=4" width="100px;" alt="André Arroxellas"/>
+ <br />
+ <sub><b>André Arroxellas</b></sub></a> <a href="https://andregda.github.io" title="Blog"></a>
+ <br />
+
+<p align="left">
 	<a href="mailto:a.arroxellas@hotmail.com">
 			<img alt="Ask Me Anything" src="https://img.shields.io/badge/-Ask_me_anything-gray?style=flat-square&logo=Gmail&logoColor=lightblue&link=mailto:a.arroxellas@gmail.com" />
 	</a>
 	<a href="https://www.linkedin.com/in/a-arroxellas">
 		<img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/a-arroxellas" />
 	</a>
-		
-<!--- [<img align="left" alt="André Arroxellas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-/>
---->
-        always by -> @andregda & a.arroxellas@<contact-mail>
+</p>
 
-<br />
+		@andregda && a.arroxellas@gmail.com && linkedin/a-arroxellas
+
+---
 
 <!--- Check the work of https://anuraghazra.github.io/case-studies/github-readme-stats --->
-			
+<!---
 | [![andregda's GitHub stats](https://github-readme-stats.vercel.app/api?username=andregda&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=dracula)](https://github.com/andregda?tab=repositories) | [![andregda's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andregda&hide_border=true&theme=dracula)](https://github.com/andregda?tab=repositories) |
+|:-:|:-:|
+--->
+
+<!--- Check the work of https://github.com/vn7n24fzkq/github-profile-summary-cards --->
+| [![andregda's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andregda&theme=default)](https://github.com/andregda?tab=repositories) | [![andregda's most commited language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andregda&theme=default)](https://github.com/andregda?tab=repositories) |
 |:-:|:-:|
 
 <p align="center">
@@ -96,3 +123,7 @@ I'm a graduated Mechanical Engineer 🌊 with emphasis in Computacional Fluid Dy
 [github]: https://github.com/andregda
 [linkedin]: https://linkedin.com/in/a-arroxellas
 
+
+---
+
+Made by André Arroxellas 👋🏽 [Get in Touch!](Https://www.linkedin.com/in/a-arroxellas/)
