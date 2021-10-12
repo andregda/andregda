@@ -81,20 +81,22 @@ Rocketseat - Ignite NodeJS (Ongoing)
 
 ## Reach me over:
 
-<a href="https://andregda.github.io">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/76409149?v=4" width="100px;" alt="André Arroxellas"/>
- <br />
- <sub><b>André Arroxellas</b></sub></a> <a href="https://andregda.github.io" title="Blog"></a>
- <br />
+<div style="display:inline-block">
+  <a href="https://andregda.github.io">
+   <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/76409149?v=4" width="100px;" alt="André Arroxellas"/>
+</div>
 
-<p align="left">
-	<a href="mailto:a.arroxellas@hotmail.com">
-			<img alt="Ask Me Anything" src="https://img.shields.io/badge/-Ask_me_anything-gray?style=flat-square&logo=Gmail&logoColor=lightblue&link=mailto:a.arroxellas@gmail.com" />
-	</a>
-	<a href="https://www.linkedin.com/in/a-arroxellas">
-		<img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/a-arroxellas" />
-	</a>
-</p>
+<div style="display:inline-block;">
+  <br />
+	<a href="https://andregda.github.io/">
+			<img alt="Personal Blog, Site" src="https://img.shields.io/badge/-Blog-blue?style=flat&logo=/e/&logoColor=lightblue&link=https://andregda.github.io/" /></a>
+  <br />
+<a href="https://www.linkedin.com/in/a-arroxellas">
+		<img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/a-arroxellas" /></a>
+  <br />
+  <a href="mailto:a.arroxellas@gmail.com">
+			<img alt="Ask Me Anything" src="https://img.shields.io/badge/-Ask_me_anything-gray?style=flat&logo=Gmail&logoColor=lightblue&link=mailto:a.arroxellas@gmail.com" /></a>
+</div>
 
 		@andregda && a.arroxellas@gmail.com && linkedin/a-arroxellas
 
