@@ -81,16 +81,14 @@ Rocketseat - Ignite NodeJS (Ongoing)
 
 ## Reach me over:
 
-<div style="display:inline-block">
+<div>
   <a href="https://andregda.github.io">
    <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/76409149?v=4" width="100px;" alt="André Arroxellas"/>
 </div>
 
-<div style="display:inline-block;">
-  <br />
+<div>
 	<a href="https://andregda.github.io/">
 			<img alt="Personal Blog, Site" src="https://img.shields.io/badge/-Blog-blue?style=flat&logo=/e/&logoColor=lightblue&link=https://andregda.github.io/" /></a>
-  <br />
 <a href="https://www.linkedin.com/in/a-arroxellas">
 		<img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/a-arroxellas" /></a>
   <br />
