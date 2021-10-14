@@ -30,11 +30,11 @@ I've experienced code through in-house software development and, now, working in
 - 🌎 EN FR PT-BR
 - 🎸 guitar / ukulele
 - 📷 eventual photographer
-- 🗹 Tabs ☐ Spaces
-- 🗹 VIM 🗹 VS Code / OSS ☐ EMACS ... that other OS ... 😂
-- 🗹 Semicolon ☐ No Semicolon
-- 🗹 Linux 🗹 MacOS 🗹 WSL2 ☐ Windows 
-- 🗹 Zsh 🗹 Bash ☐ Fish ☐ PowerShell 
+- [:heavy_check_mark:] Tabs [ _ ] Spaces
+- [:heavy_check_mark:] VIM [:heavy_check_mark:]  VS Code / OSS [ _ ] EMACS ... that other OS ... 😂
+- [:heavy_check_mark:]  Semicolon [ _ ] No Semicolon
+- [:heavy_check_mark:]  Linux [:heavy_check_mark:]  MacOS [:heavy_check_mark:]  WSL2 [ _ ] Windows 
+- [:heavy_check_mark:]  Zsh [:heavy_check_mark:] Bash [ _ ] Fish [ _ ] PowerShell 
 
 **_⚙️  Tools available at [dotfiles](https://github.com/andregda/dotfiles)_**
 
@@ -44,6 +44,7 @@ I've experienced code through in-house software development and, now, working in
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=sql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -51,7 +52,7 @@ I've experienced code through in-house software development and, now, working in
 
 But if you mean 🗣️ ... I use [SRS](https://en.wikipedia.org/wiki/Spaced_repetition), powered by
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Anki-icon.svg/1024px-Anki-icon.svg.png" alt="Anki symbol" width="18px"/> 
-[Anki], books and shadowing.
+[Anki], books and movies/series shadowing.
 
 ### Certificates:
 
